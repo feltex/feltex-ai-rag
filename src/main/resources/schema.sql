@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS ingested_files (
+    filename VARCHAR PRIMARY KEY,
+    ingested_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
