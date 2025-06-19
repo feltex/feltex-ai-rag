@@ -5,6 +5,13 @@ Este projeto é uma aplicação desenvolvida em **Java** utilizando o framework 
 1. **Ingestão de Arquivos PDF**: Processa arquivos PDF localizados na pasta `docs` e armazena informações em um banco de dados.
 2. **Chat API**: Fornece uma API REST para interagir com um cliente de chat.
 
+
+
+## Vídeo no Youtube
+
+https://youtu.be/1Z-dvwMH7fw
+
+
 ## Tecnologias Utilizadas
 
 - **Java 21**
